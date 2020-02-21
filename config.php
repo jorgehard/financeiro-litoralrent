@@ -16,11 +16,7 @@ class DBConnection extends PDO
     {
 		global $titulo_geral;
 		try{
-			/*$titulo_geral = "LitoralRent";
-			$DBhost = "polemicalitoral.com.br";
-			$DBname = "polemica_freat2";
-			$DBuser = "polemica_freat2";
-			$DBpass = "5IqryeWlDCJP";*/
+
 			$titulo_geral = "LitoralRent";
 			$DBhost = "localhost";
 			$DBname = "polemica_freat2";
