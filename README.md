@@ -11,7 +11,7 @@ Foi descontinuado, já que a empresa interessada no projeto não deu continuidad
 
 ## Envolvido no desenvolvimento
 
-Jorge Henrique – [@LinkedIn](https://www.linkedin.com/in/jorge-henrique-baptista/) – jorgehenrique@live.com
+Jorge Henrique – [@LinkedIn](https://www.linkedin.com/in/jorge-henrique-baptista/)
 
 The MIT License (MIT)
 
